@@ -1,0 +1,13 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "sps-demo-pnp-client-side-solution",
+    "id": "d313d84a-eecc-4782-933d-3f50b3005bc8",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "isDomainIsolated": false
+  },
+  "paths": {
+    "zippedPackage": "solution/sps-demo-pnp.sppkg"
+  }
+}

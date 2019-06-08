@@ -1,0 +1,1 @@
+{"preset":"@voitanos/jest-preset-spfx","rootDir":"../src","coverageReporters":["text","json","lcov","text-summary","cobertura"],"reporters":["default","jest-junit"]}
